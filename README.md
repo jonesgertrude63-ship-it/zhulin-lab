@@ -2,6 +2,10 @@
 
 直接展示品牌简介、核心优势和公开来源的泡发切片竹笋品牌资料评估网站。
 
+## 在线访问
+
+https://jonesgertrude63-ship-it.github.io/zhulin-lab/
+
 ## 本地运行
 
 ```bash
