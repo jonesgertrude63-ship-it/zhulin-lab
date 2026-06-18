@@ -1,0 +1,8 @@
+node_modules/
+.npm-cache/
+dist/
+/*.png
+.npmrc
+AGENTS.md
+design-qa.md
+reference/
