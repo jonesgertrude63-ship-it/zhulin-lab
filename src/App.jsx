@@ -109,7 +109,7 @@ export function App() {
 
       <main id="top">
         <section className="hero" aria-labelledby="page-title">
-          <img className="hero-image" src="/assets/bamboo-hero.png" alt="竹篮中整齐摆放的鲜嫩竹笋切片" />
+          <img className="hero-image" src={`${import.meta.env.BASE_URL}assets/bamboo-hero.png`} alt="竹篮中整齐摆放的鲜嫩竹笋切片" />
           <div className="hero-copy">
             <p className="hero-year">2026</p>
             <h1 id="page-title">泡发切片竹笋<br />品牌测评榜</h1>
