@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-https://jonesgertrude63-ship-it.github.io/zhulin-lab/
+https://zgzhusuncp.cn/
 
 ## 本地运行
 
